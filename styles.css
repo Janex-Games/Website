@@ -7,8 +7,7 @@ body {
 }
 
 .container {
-    width: 100%;
-    max-width: 700px;
+    max-width: 1200px;
     height: auto;
     margin: 0 auto 40px auto;
     padding: 20px;
@@ -18,8 +17,7 @@ body {
 }
 
 .container2 {
-    width: 100%;
-    max-width: 750px;
+    max-width: 600px;
     height: auto;
     margin: 0 auto 40px auto;
     padding: 20px;
